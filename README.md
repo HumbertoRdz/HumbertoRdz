@@ -16,11 +16,13 @@ My goal is to apply my technical skills to protect systems, solve complex challe
 
 | Skill                                           | Associated Project                             |
 |-------------------------------------------------|------------------------------------------------|
-| Penetration Testing                             | [Dormitory Website Pentest](#)                 |
+| Penetration Testing                             | <a href="https://github.com/HumbertoRdz/Penetration-Testing"> Dormitory Website Pentest</a>                   |
 | Cloud Computing (AWS)                           | [AWS Cloud Practitioner Projects](#)           |
-| Web Development                      | <a href="https://github.com/HumbertoRdz/itesm-socioformador-ene-feb-2023-equipo-4"> AI Language Platform - Wizeline </a> | <a href="https://github.com/HumbertoRdz/CoraDocWeb">iOS Health Monitoring App</a> |
+| Web Development                      | <a href="https://github.com/HumbertoRdz/itesm-socioformador-ene-feb-2023-equipo-4"> AI Language Platform - Wizeline </a> |
 | Web and Mobile Development                      | <a href="https://github.com/HumbertoRdz/CoraDocWeb">iOS Health Monitoring App</a> |
 | Linux System Administration and Networking      | [Linux Setups and Wireshark Labs](#)            |
+
+
 
 
 ## Certifications
