@@ -17,7 +17,7 @@ My goal is to apply my technical skills to protect systems, solve complex challe
 | Skill                                           | Associated Project                             |
 |-------------------------------------------------|------------------------------------------------|
 | Penetration Testing                             | <a href="https://github.com/HumbertoRdz/Penetration-Testing"> Dormitory Website Pentest</a>                   |
-| Cloud Computing                                  | <a href="https://github.com/HumbertoRdz/Cloud-Projects"> Cloud-Projects </a>            |
+| Cloud Computing                                  | <a href="https://github.com/HumbertoRdz/Cloud-Projects"> Cloud Projects </a>            |
 | Web Development                                | <a href="https://github.com/HumbertoRdz/itesm-socioformador-ene-feb-2023-equipo-4"> AI Language Platform - Wizeline </a> |
 | Web and Mobile Development                      | <a href="https://github.com/HumbertoRdz/CoraDocWeb">iOS Health Monitoring App</a> |
 
