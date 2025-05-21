@@ -30,8 +30,7 @@ My goal is to apply my technical skills to protect systems, solve complex challe
 <div>
     <img src="https://img.shields.io/badge/-CyberOps%20Associate-2C8540?&style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Certified%20Fundamentals%20in%20Cybersecurity-1A477C?&style=for-the-badge&logo=fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Certificate%20in%20Cybersecurity%20(IRSI/SISAP)-0053CE?&style=for-the-badge&logo=academia&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner%20(In%20Progress)-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner%20-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 
