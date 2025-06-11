@@ -1,4 +1,4 @@
-# Humberto Rodríguez  – "Cybersecurity, Cloud, and Practical Engineering"
+# Humberto Rodríguez  – Cybersecurity, Cloud, and Practical Engineering
 
 ## Hi there, I'm Humberto! Welcome to my professional portfolio.  
 This GitHub showcases my projects, cybersecurity work, and cloud learning experiences as I build expertise in protecting systems and developing secure solutions.  
